@@ -1,6 +1,15 @@
+# Default rules
 build
 out
 .cache
 .idea
 .vs
 .vscode
+
+# Custom rules
+CMakeCache.txt
+CMakeFiles/
+Makefile
+_deps/
+bin/
+cmake_install.cmake
